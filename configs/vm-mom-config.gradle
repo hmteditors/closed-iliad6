@@ -1,0 +1,14 @@
+project.ext {
+
+  textInventory="/vagrant/iliad6/editions/inventory.xml"
+  textArchive="/vagrant/iliad6/editions"
+
+    // Lists of index files to use in verification:
+    folioToImage = "/vagrant/iliad6/indices/venA-folioToImage.csv"
+
+    textToImage = "/vagrant/iliad6/indices/venA-textToImage-Iliad.csv"
+    textToFolio = "/vagrant/iliad6/indices/venA-textToFolio-Iliad.csv"
+
+    scholiaInventories = "/vagrant/iliad6/collections/venA-exterior.csv,/vagrant/iliad6/collections/venA-intermarginal.csv,/vagrant/iliad6/collections/venA-interior.csv,/vagrant/iliad6/collections/venA-mainScholia.csv,/vagrant/iliad6/collections/venA-interlinear.csv"
+    
+}
