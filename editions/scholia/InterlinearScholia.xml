@@ -196,6 +196,96 @@
                             <p>ε</p>
                         </div>
                     </div>
+                    <div n="A18" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:6.341</p>
+                        </div>
+                        <div type="comment">
+                            <p>ι</p>
+                        </div>
+                    </div>
+                    <div n="A19" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:6.362</p>
+                        </div>
+                        <div type="comment">
+                            <p>ι</p>
+                        </div>
+                    </div>
+                    <div n="A20" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:6.367</p>
+                        </div>
+                        <div type="comment">
+                            <p>α</p>
+                        </div>
+                    </div>
+                    <div n="A21" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:6.398</p>
+                        </div>
+                        <div type="comment">
+                            <p>το</p>
+                        </div>
+                    </div>
+                    <div n="A22" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:6.399</p>
+                        </div>
+                        <div type="comment">
+                            <p>ε</p>
+                        </div>
+                    </div>
+                    <div n="A23" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:6.413</p>
+                        </div>
+                        <div type="comment">
+                            <p>α</p>
+                        </div>
+                    </div>
+                    <div n="A24" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:6.419</p>
+                        </div>
+                        <div type="comment">
+                            <p>α</p>
+                        </div>
+                    </div>
+                    <div n="A25" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:6.454</p>
+                        </div>
+                        <div type="comment">
+                            <p>ο</p>
+                        </div>
+                    </div>
+                    
+                    
                 </body>
             </text>
         </group>
