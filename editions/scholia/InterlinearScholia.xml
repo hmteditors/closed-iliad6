@@ -284,8 +284,50 @@
                             <p>ο</p>
                         </div>
                     </div>
-                    
-                    
+                    <div n="A26" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:6.501</p>
+                        </div>
+                        <div type="comment">
+                            <p></p>
+                        </div>
+                    </div>
+                    <div n="A27" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:6.521</p>
+                        </div>
+                        <div type="comment">
+                            <p></p>
+                        </div>
+                    </div>
+                    <div n="A28" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:6.524</p>
+                        </div>
+                        <div type="comment">
+                            <p>τ</p>
+                        </div>
+                    </div>
+                    <div n="A29" type="scholion">
+                        <div type="lemma">
+                            <p/>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:6.526</p>
+                        </div>
+                        <div type="comment">
+                            <p>α</p>
+                        </div>
+                    </div>
                 </body>
             </text>
         </group>
