@@ -13,7 +13,7 @@
             <edition urn="urn:cts:greekLit:tlg0012.tlg001.msA:">
                 <label xml:lang="eng"> A </label>
                 <description xml:lang="eng"> Iliad text of the Venetus A manuscript, Marciana 454 (=822). </description>
-                <online docname="iliad/VenetusA-Iliad-12.xml">
+                <online docname="iliad/VenetusA-Iliad-6.xml">
                     
                     <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
                     <citationMapping>
@@ -109,7 +109,7 @@
         
         <work urn="urn:cts:greekLit:tlg5026.msAint:" xml:lang="grc">
             <title xml:lang="eng"> Interior scholia</title>
-            <edition urn="urn:cts:greekLit:tlg5026.mseAint.hmt:">
+            <edition urn="urn:cts:greekLit:tlg5026.msAint.hmt:">
                 <label xml:lang="eng">msAint</label>
                 <description xml:lang="eng">Interior (gutter) scholia of the Venetus A manuscript, Marciana
                     454 (=822).</description>
