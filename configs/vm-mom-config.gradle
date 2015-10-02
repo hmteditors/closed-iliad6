@@ -2,6 +2,7 @@ project.ext {
 
   textInventory="/vagrant/iliad6/editions/inventory.xml"
   textArchive="/vagrant/iliad6/editions"
+  invSchema="/vagrant/iliad6/editions/schemas/TextInventory.rng"
 
     // Lists of index files to use in verification:
     folioToImage = "/vagrant/iliad6/indices/venA-folioToImage.csv"
@@ -10,5 +11,19 @@ project.ext {
     textToFolio = "/vagrant/iliad6/indices/venA-textToFolio-Iliad.csv"
 
     scholiaInventories = "/vagrant/iliad6/collections/venA-exterior.csv,/vagrant/iliad6/collections/venA-intermarginal.csv,/vagrant/iliad6/collections/venA-interior.csv,/vagrant/iliad6/collections/venA-mainScholia.csv,/vagrant/iliad6/collections/venA-interlinear.csv"
+
+    codexModel = "/vagrant/iliad6/collections/codexModels/venetusA.csv"
+
+
+
+    //   For concordion:
+   mdSrc = "specs/md"
     
+    htmlPreface = """
+<html xmlns:concordion="http://www.concordion.org/2007/concordion">
+<body>
+    """
+    htmlEnd = "</body>\n</html>\n"
+
+    tokenMap = [    "openex": "<div class='example'>", "closeex" : "</div>"]      
 }
